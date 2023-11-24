@@ -1,0 +1,3 @@
+This is my story so i will tell it like I want to!
+
+//The .git folder created will trakc all the changes made to the project
